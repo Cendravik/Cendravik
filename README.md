@@ -6,23 +6,16 @@
 
   Key facts
 
-  ┌─────────────────────────────┬──────────────────────────────────────────────────────────────────────────┐
-  │            Fact             │                                Detail                                    │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Type                        │ Creative digital studio                                                  │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Founder & creative director │ Tonika Dobreva                                                           │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Working languages           │ Bulgarian and English (bilingual website, toggle in nav)                 │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Client reach                │ Worldwide                                                                │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Website                     │ https://www.cendravik.com                                                │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Contact                     │ Enquiry form (https://www.cendravik.com/en/contact) · info@cendravik.com │
-  ├─────────────────────────────┼──────────────────────────────────────────────────────────────────────────┤
-  │ Response time               │ Replies within 24 hours                                                  │
-  └─────────────────────────────┴──────────────────────────────────────────────────────────────────────────┘
+  
+ Fact                       │ Detail                                    
+Type                        │ Creative digital studio                                                   
+Founder & creative director │ Tonika Dobreva                                                           
+Working languages           │ Bulgarian and English (bilingual website, toggle in nav)                 
+Client reach                │ Worldwide                                                                
+Website                     │ https://www.cendravik.com                                                
+Contact                     │ Enquiry form (https://www.cendravik.com/en/contact) · info@cendravik.com 
+Response time               │ Replies within 24 hours                                                  
+
 
   What does Cendravik do?
 
